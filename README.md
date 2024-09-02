@@ -80,7 +80,7 @@ python main.py
 ## Usage
 Add User Data: Follow the prompts to enter user details such as User ID, First Name, Last Name, Age, Gender, and Year of Birth. The application will validate the inputs before storing them.
 View User Data: Retrieve and display stored data by selecting the appropriate option in the application.
-## Error Handling: The application will guide you through resolving input errors or connection issues.
+Error Handling: The application will guide you through resolving input errors or connection issues.
 ## Project Structure
 ```graphql
 
